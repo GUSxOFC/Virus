@@ -1,6 +1,6 @@
-#####         Selamat Datang di Tools Panglima Jatim 404           #####
-#####     		Author = Panglima Jatim 404		   #####
-#####			Github = https://github.com/Projeckerror   #####
+#####         Selamat Datang di Tools GusOfcXD           #####
+#####     		pembuat = Panglima Jatim 404		   #####
+#####			Github = https://github.com/GUSxOFC  #####
 #####			 Time  = Mafia Teknologi		   #####
 ########################################################################
 # Jangan Di Rubah script gw nanti ERROR Hargai pembuatnya cuk !
