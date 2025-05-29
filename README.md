@@ -20,7 +20,7 @@ pkg install toilet
 
 pkg install git
 
-git clone https://github.com/Projeckerror/Virus
+git clone https://github.com/GUSxOFC/Virus
 
 cd Virus
 
